@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Depth of Binary Tre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert Sorted Array to Binary Search Tree", "Convert Sorted Array to Binary Search Tree\Convert Sorted Array to Binary Search Tree.csproj", "{C5DAEA66-7B0F-4E26-BFF9-C0A57F254619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Binary Tree", "Balanced Binary Tree\Balanced Binary Tree.csproj", "{3AA90DA8-ED0C-46DD-BAD3-24BA4034BC75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanced Binary Tree", "Balanced Binary Tree\Balanced Binary Tree.csproj", "{3AA90DA8-ED0C-46DD-BAD3-24BA4034BC75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Depth of Binary Tree", "Minimum Depth of Binary Tree\Minimum Depth of Binary Tree.csproj", "{E4763C17-2725-4202-AEA1-C2743BC1230A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Depth of Binary Tree", "Minimum Depth of Binary Tree\Minimum Depth of Binary Tree.csproj", "{E4763C17-2725-4202-AEA1-C2743BC1230A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path Sum", "Path Sum\Path Sum.csproj", "{8A161813-59B8-4B7D-AE98-66A8D8E99C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{E4763C17-2725-4202-AEA1-C2743BC1230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4763C17-2725-4202-AEA1-C2743BC1230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4763C17-2725-4202-AEA1-C2743BC1230A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A161813-59B8-4B7D-AE98-66A8D8E99C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A161813-59B8-4B7D-AE98-66A8D8E99C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A161813-59B8-4B7D-AE98-66A8D8E99C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A161813-59B8-4B7D-AE98-66A8D8E99C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
